@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1DE4FFE-24C3-4284-82B8-D50533B876E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>sysdemo</RootNamespace>
+    <AssemblyName>sysdemo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsSoftware.cs" />
+    <Compile Include="Cusuario\CboDistrito.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cusuario\CboDistrito.Designer.cs">
+      <DependentUpon>CboDistrito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cusuario\CboEspecialidad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cusuario\CboEspecialidad.Designer.cs">
+      <DependentUpon>CboEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guias\FrmGuiaIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guias\FrmGuiaIngreso.Designer.cs">
+      <DependentUpon>FrmGuiaIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Guias\FrmListaGuias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Guias\FrmListaGuias.Designer.cs">
+      <DependentUpon>FrmListaGuias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\FrmEspecialidad.Designer.cs">
+      <DependentUpon>FrmEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico\Frmabcmedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico\Frmabcmedico.Designer.cs">
+      <DependentUpon>Frmabcmedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medico\FrmMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medico\FrmMedico.Designer.cs">
+      <DependentUpon>FrmMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Cusuario\CboDistrito.resx">
+      <DependentUpon>CboDistrito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cusuario\CboEspecialidad.resx">
+      <DependentUpon>CboEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guias\FrmGuiaIngreso.resx">
+      <DependentUpon>FrmGuiaIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Guias\FrmListaGuias.resx">
+      <DependentUpon>FrmListaGuias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\FrmEspecialidad.resx">
+      <DependentUpon>FrmEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico\Frmabcmedico.resx">
+      <DependentUpon>Frmabcmedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medico\FrmMedico.resx">
+      <DependentUpon>FrmMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fotos\acceso.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fotos\trauma-img-drs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fotos\LoginPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fotos\SalidaPlus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Data\Capa_Data.csproj">
+      <Project>{6f459e1b-e45c-4480-a05f-01e30f984e5e}</Project>
+      <Name>Capa_Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa_Negocio\Capa_Negocio.csproj">
+      <Project>{9d2d7966-884e-4001-bf0c-bafbf9c83dc9}</Project>
+      <Name>Capa_Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fotos\doctor.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

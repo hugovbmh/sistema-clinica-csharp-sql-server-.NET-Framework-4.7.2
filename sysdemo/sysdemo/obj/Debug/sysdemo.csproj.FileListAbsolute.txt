@@ -1,0 +1,46 @@
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\sysdemo.exe.config
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\sysdemo.exe
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\sysdemo.pdb
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.csprojAssemblyReference.cache
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Form1.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Properties.Resources.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.exe
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.pdb
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\Capa_Data.dll
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\Capa_Negocio.dll
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\Capa_Data.pdb
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\bin\Debug\Capa_Negocio.pdb
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.CopyComplete
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.FrmMenu.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Mantenimiento.FrmEspecialidad.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Medico.FrmMedico.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Cusuario.CboDistrito.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Medico.Frmabcmedico.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Cusuario.CboEspecialidad.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Guias.FrmListaGuias.resources
+C:\Users\Jaime\Desktop\sysdemo\sysdemo\obj\Debug\sysdemo.Guias.FrmGuiaIngreso.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\sysdemo.exe.config
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\sysdemo.exe
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\sysdemo.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\Capa_Negocio.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\bin\Debug\Capa_Negocio.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.AssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Cusuario.CboDistrito.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Cusuario.CboEspecialidad.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Form1.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.FrmMenu.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Guias.FrmGuiaIngreso.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Guias.FrmListaGuias.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Mantenimiento.FrmEspecialidad.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Medico.Frmabcmedico.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Medico.FrmMedico.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.Properties.Resources.resources
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.GenerateResource.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.CoreCompileInputs.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.csproj.CopyComplete
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.exe
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\sysdemo\obj\Debug\sysdemo.pdb

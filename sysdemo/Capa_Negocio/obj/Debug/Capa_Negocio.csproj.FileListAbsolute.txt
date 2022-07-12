@@ -1,0 +1,18 @@
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\bin\Debug\Capa_Data.dll
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\bin\Debug\Capa_Data.pdb
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Jaime\Desktop\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\bin\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\bin\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

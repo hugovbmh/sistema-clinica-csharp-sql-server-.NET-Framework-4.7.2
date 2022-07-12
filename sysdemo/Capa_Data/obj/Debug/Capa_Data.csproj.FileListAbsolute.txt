@@ -1,0 +1,12 @@
+C:\Users\Jaime\Desktop\sysdemo\Capa_Data\bin\Debug\Capa_Data.dll
+C:\Users\Jaime\Desktop\sysdemo\Capa_Data\bin\Debug\Capa_Data.pdb
+C:\Users\Jaime\Desktop\sysdemo\Capa_Data\obj\Debug\Capa_Data.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\sysdemo\Capa_Data\obj\Debug\Capa_Data.dll
+C:\Users\Jaime\Desktop\sysdemo\Capa_Data\obj\Debug\Capa_Data.pdb
+C:\Users\Jaime\Desktop\sysdemo\Capa_Data\obj\Debug\Capa_Data.csprojAssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Data\bin\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Data\bin\Debug\Capa_Data.pdb
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Data\obj\Debug\Capa_Data.csproj.AssemblyReference.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Data\obj\Debug\Capa_Data.csproj.CoreCompileInputs.cache
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Data\obj\Debug\Capa_Data.dll
+D:\Users\hugov\Desktop\s\semestre 4\Lenguaje de Programacion III\sysdemo\Capa_Data\obj\Debug\Capa_Data.pdb
