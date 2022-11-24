@@ -8,6 +8,6 @@ namespace Capa_Data
 {
     class CDconexion
     {
-        public static string cnx = "server=HUGOMH\\SQLEXPRESS;database=SysMedic;integrated security=true";
+        public static string cnx = "server=localhost;database=SysMedic;integrated security=true";
     }
 }
